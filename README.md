@@ -1,18 +1,113 @@
-# 💫 About Me:
-👋 Hi, I’m a Software Engineer with 2+ years of experience as an Software Developer, currently working with AI & Generative AI development.<br><br>I’ve worked on building production-grade web applications and am now focused on integrating AI into real-world products — including RAG-based chatbots, LLM integrations, and AI-powered features.<br><br>I enjoy learning by building projects, experimenting with new technologies, and turning ideas into working products. Currently sharpening my skills in Python, machine learning fundamentals, and applied GenAI systems.<br><br>🚀 Actively looking for junior AI/ML or AI Developer opportunities.<br>
+<h1 align="center">Hi, I'm Mohammed Ali 👋</h1>
+<h3 align="center">AI Engineer · Generative AI · RAG · Agentic AI · LLM Applications</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedsunasara/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sunasaramohd16@gmail.com)
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mohd-ali1234&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mohd-ali1234&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohd-ali1234&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammedsunasara/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:sunasaramohd16@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Open%20to-AI%20Engineer%20roles-2ea44f?style=for-the-badge" alt="Open to AI Engineer roles"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mohd-ali1234&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me
+
+I'm an **AI Engineer at Inspire Software** with 2+ years of software engineering experience. I build **production Generative AI systems**, with a focus on **Retrieval-Augmented Generation (RAG)** and **Agentic AI**.
+
+- 🔍 **RAG pipelines:** ingestion, chunking, embeddings, hybrid retrieval, re-ranking and grounded answers with citations
+- 🤖 **Multi-agent systems:** supervisor/worker orchestration, tool calling, query routing, evidence grading and self-correcting retry loops with **LangGraph** and **LangChain**
+- ⚡ **Backends that ship:** async **FastAPI** services for LLM inference, chatbots and document processing, deployed on **AWS** with **Docker** and **Nginx**
+- 🔐 **Hybrid LLM setups:** local models via **Ollama** for privacy-sensitive work, cloud LLM APIs for heavy reasoning
+
+Before AI, I shipped production **iOS apps in Swift**, so I care about software that real users can rely on, not just demos.
+
+💼 Open to **AI Engineer / GenAI Engineer / ML Engineer / AI Solutions Engineer** roles.
+
+---
+
+## 🚀 Featured Projects
+
+### 🔎 [PARALLAX](https://github.com/Mohd-ali1234/PARALLAX): Multimodal Financial Disclosure Verification Engine
+A multi-agent RAG system in which a **Supervisor Agent coordinates 4 specialized agents** to cross-verify company claims across SEC filings, investor decks, earnings-call transcripts and XBRL data.
+- Semantic search in **Qdrant** combined with structured retrieval in **PostgreSQL**
+- A claim-centric design that detects **5 discrepancy types**: numeric, period, basis, scope and definition
+- A deterministic reconciliation engine handles **100% of numeric comparisons**, so the LLM never does the math
+
+`LangChain` `Qdrant` `PostgreSQL` `Python` `Multi-Agent RAG`
+
+### 🏢 [Enterprise Knowledge Platform](https://github.com/Mohd-ali1234/enterprise-knowledge-platform): Agentic RAG System
+Answers multi-hop questions over enterprise documents using a **4-stage agentic retrieval workflow**: query routing, hybrid retrieval, evidence grading, and rewrite-and-retry.
+- Vector search (**ChromaDB + BGE embeddings**) combined with **knowledge-graph traversal**
+- Runs fully on **local LLMs via Ollama** for data privacy
+- **React** dashboard for document management, metadata extraction and entity recognition
+
+`LangGraph` `FastAPI` `ChromaDB` `MongoDB` `Ollama` `React`
+
+### 🎧 [Pulse](https://github.com/Mohd-ali1234/Pulse): Multi-Agent Music App with an AI DJ
+**3 cooperating agents**: a DJ Agent, a Natural-Language Music Concierge and a Listening Analyst. They build personalized queues from plain-English requests.
+- A deterministic scoring engine ranks tracks using skips, replays and completion rate
+- Shipped on **2 client platforms** with YouTube streaming, used by **30+ users**
+
+`LangGraph` `LangChain` `TypeScript` `Expo`
+
+### 📊 [Rupix](https://github.com/quickserveposapp-afk/rupixapp): AI-Powered Accounting & Payroll Platform
+A full-stack accounting and payroll platform used by **12+ restaurant businesses**, with LLM-powered data extraction, summarization and a financial RAG chatbot.
+- Natural-language querying over **1,200+ financial records**
+- Production deployment on **AWS EC2** with Nginx and PM2
+
+`LLMs` `RAG` `AWS EC2` `Nginx` `PM2`
+
+---
+
+## 🛠️ Tech Stack
+
+**Generative AI & Agents**<br/>
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6B46C1?style=for-the-badge&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Sentence%20Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+**Vector Databases & Retrieval**<br/>
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
+
+**Machine Learning & Data**<br/>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+**Backend & Languages**<br/>
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+
+**Databases, Cloud & DevOps**<br/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohd-ali1234&theme=dark&hide_border=true&show_icons=true" height="165" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohd-ali1234&theme=dark&hide_border=true&layout=compact" height="165" alt="Top languages"/>
+</p>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Mohd-ali1234&theme=dark&hide_border=true" alt="GitHub streak"/>
+</p>
+
+---
+
+<p align="center"><i>Building AI systems that retrieve the right context, reason in steps, and hold up in production.</i></p>
